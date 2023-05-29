@@ -1,4 +1,6 @@
-package org.skillF;
+package org.skillF.university;
+
+import org.skillF.StudyProfile;
 
 public class University {
     String id;

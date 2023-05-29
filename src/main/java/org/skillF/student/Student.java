@@ -1,4 +1,4 @@
-package org.skillF;
+package org.skillF.student;
 
 public class Student {
     String fullName;

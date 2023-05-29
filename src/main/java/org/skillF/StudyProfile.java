@@ -5,7 +5,7 @@ public enum StudyProfile {
     MATH("Математика"),
     CHEMISTRY("Химия"),
     MEDICINE("Медицина");
-    String profileName;
+    final String profileName;
     private StudyProfile(String profileName){
         this.profileName = profileName;
     }
